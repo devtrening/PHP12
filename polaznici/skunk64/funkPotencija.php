@@ -1,5 +1,7 @@
 <?php
 
+	/*Funkcija za izracun potencije.*/
+
 	include('funkcija.php');
 	
 	$broj = 8;
