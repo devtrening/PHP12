@@ -81,3 +81,13 @@ function mjesec($p_mjesec) {
 			break;
 	}
 }
+
+function faktorijele($p_broj) {
+	$rezultat = 1;
+	while ($p_broj > 1) {
+		$rezultat *= $p_broj;
+		$p_broj -= 1;
+	}
+
+	return $rezultat;
+}
