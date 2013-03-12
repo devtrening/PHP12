@@ -1,6 +1,6 @@
 <?php
 
-	/*Funkcija iza izracun paktorijela.*/
+	/*Funkcija za izracun faktorijela.*/
 
 	$broj = 9;
 
